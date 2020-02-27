@@ -12,7 +12,7 @@ Click `Clone or download` and `Download ZIP` to get this repo.
 
 ## Follow me:
 `Personal Account`: 
-- LinkedIn: https://linkedin.com/in/constrod/
+- LinkedIn: https://linkedin.com/in/constROD
 - Twitter: https://twitter.com/constROD
 - Github: https://github.com/constROD
 
